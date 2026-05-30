@@ -1,0 +1,21 @@
+body{
+    
+    font-family : arial, sans-serif;
+
+}
+
+
+.hero img{
+
+  height: 600px;
+object-fit: cover;
+}
+
+
+.card{
+    transition:0.3s;
+}
+
+.card:hover{
+   transform:translatey(-10px);
+}
